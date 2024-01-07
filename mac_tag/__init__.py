@@ -10,7 +10,7 @@ import values
 https://github.com/jdberry/tag
 """
 
-bin = "/usr/local/bin/tag"
+bin = "/opt/homebrew/bin/tag"
 
 
 def _string(value):
